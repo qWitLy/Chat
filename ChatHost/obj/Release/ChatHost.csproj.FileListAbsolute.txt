@@ -1,0 +1,12 @@
+C:\Users\solda\source\repos\ChatHost\bin\Release\ChatHost.exe.config
+C:\Users\solda\source\repos\ChatHost\bin\Release\ChatHost.exe
+C:\Users\solda\source\repos\ChatHost\bin\Release\ChatHost.pdb
+C:\Users\solda\source\repos\ChatHost\bin\Release\wcf_chat.dll
+C:\Users\solda\source\repos\ChatHost\bin\Release\wcf_chat.pdb
+C:\Users\solda\source\repos\ChatHost\bin\Release\wcf_chat.dll.config
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.csproj.AssemblyReference.cache
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.csproj.CopyComplete
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.exe
+C:\Users\solda\source\repos\ChatHost\obj\Release\ChatHost.pdb

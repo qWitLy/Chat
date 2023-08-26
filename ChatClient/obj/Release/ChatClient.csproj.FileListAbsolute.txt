@@ -1,0 +1,16 @@
+C:\Users\solda\source\repos\ChatClient\bin\Release\ChatClient.exe.config
+C:\Users\solda\source\repos\ChatClient\bin\Release\ChatClient.exe
+C:\Users\solda\source\repos\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.csproj.AssemblyReference.cache
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\solda\source\repos\ChatClient\obj\Release\MainWindow.g.cs
+C:\Users\solda\source\repos\ChatClient\obj\Release\App.g.cs
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient_MarkupCompile.cache
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient_MarkupCompile.lref
+C:\Users\solda\source\repos\ChatClient\obj\Release\MainWindow.baml
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.g.resources
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.Properties.Resources.resources
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.cache
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.exe
+C:\Users\solda\source\repos\ChatClient\obj\Release\ChatClient.pdb
