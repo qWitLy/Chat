@@ -10,3 +10,15 @@ C:\Users\solda\source\repos\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs
 C:\Users\solda\source\repos\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
 C:\Users\solda\source\repos\ChatHost\obj\Debug\ChatHost.exe
 C:\Users\solda\source\repos\ChatHost\obj\Debug\ChatHost.pdb
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.pdb
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\wcf_chat.dll
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\solda\source\repos\Chat\ChatHost\bin\Debug\wcf_chat.dll.config
+C:\Users\solda\source\repos\Chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\solda\source\repos\Chat\wcf_chat\bin\Debug\wcf_chat.dll.config
+C:\Users\solda\source\repos\Chat\wcf_chat\bin\Debug\wcf_chat.dll
+C:\Users\solda\source\repos\Chat\wcf_chat\bin\Debug\wcf_chat.pdb
+C:\Users\solda\source\repos\Chat\wcf_chat\obj\Debug\wcf_chat.csproj.AssemblyReference.cache
+C:\Users\solda\source\repos\Chat\wcf_chat\obj\Debug\wcf_chat.csproj.CoreCompileInputs.cache
+C:\Users\solda\source\repos\Chat\wcf_chat\obj\Debug\wcf_chat.dll
+C:\Users\solda\source\repos\Chat\wcf_chat\obj\Debug\wcf_chat.pdb
