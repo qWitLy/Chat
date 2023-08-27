@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\solda\source\repos\ChatClient\obj\Debug\
+C:\Users\solda\source\repos\Chat\ChatClient\obj\Debug\
 ChatClient
 none
 false
 DEBUG;TRACE
-C:\Users\solda\source\repos\ChatClient\App.xaml
+C:\Users\solda\source\repos\Chat\ChatClient\App.xaml
 1219584333
 
 6-683628028
 151069376965
 MainWindow.xaml;
 
-False
+True
 
